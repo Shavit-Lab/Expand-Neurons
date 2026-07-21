@@ -1,0 +1,13 @@
+name: expand-neurons
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pytorch>=2.0
+  - torchvision
+  - pytorch-cuda=12.1     # drop this line (or change to 11.8) for a non-CUDA install
+  - pip:
+    - -r requirements.txt

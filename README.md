@@ -1,4 +1,4 @@
-# ['Expand Neurons, Not Parameters'](https://openreview.net/forum?id=cYxavyv2C7) - ICML 2026
+# [Expand Neurons, Not Parameters](https://openreview.net/forum?id=cYxavyv2C7) - ICML 2026
 Here we include the code for our paper [Expand Neurons, Not Parameters](https://openreview.net/forum?id=cYxavyv2C7).
 
 ### Overview

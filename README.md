@@ -39,6 +39,7 @@ If you found our work useful, please cite our paper:
 @inproceedings{kong2026expand,
   title={Expand Neurons, Not Parameters},
   author={Kong, Linghao and Subramanian, Inimai and Shavit, Yonadav G, and Adler, Micah and Alistarh, Dan and Shavit, Nir N},
-  booktitle={The Forty-third International Conference on Machine Learning}
+  booktitle={The Forty-third International Conference on Machine Learning},
+  year={2026}
 }
 ```
